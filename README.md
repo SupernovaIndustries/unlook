@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://supernovaindustries.it">Website</a> •
+  <a href="https://www.supernovaindustries.it/">Website</a> •
   <a href="https://github.com/SupernovaIndustries">GitHub</a> •
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
